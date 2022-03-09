@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+#text{
+    font-family: 'Work Sans', sans-serif;
+    font-weight: 600;
+    font-size: 42px;
+    display: inline-block;
+    margin: 0;
+}
+.card-title{
+    margin-top: 0.5em;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: 300;
+    font-size: 2.25rem;
+}
+.link1{
+    width: 485px;
+    height: 41px;
+    background: white;
+    /* margin-left: 47px; */
+}
+.page1card{
+    font-size: 12px;
+    margin-top: -14px;
+}
+
+.hi{
+    display:flex;
+    
+
+}
+.img-fluid{
+    box-shadow: 10px 10px 5px #dee2e6;
+}
+
+.img{
+    box-shadow: 10px 10px 5px #dee2e6;
+
+}
